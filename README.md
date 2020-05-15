@@ -1,2 +1,2 @@
 # rosy-social
-Rosy Social Club
+Rosy.social
